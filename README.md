@@ -82,17 +82,17 @@ The workbook contains three sheets:
  
 The combination of factors most associated with churn:
 
-Age: 46–55
+- Age: 46–55
 
-Geography: Germany
+- Geography: Germany
 
-Gender: Female
+- Gender: Female
 
-Membership: Inactive
+- Membership: Inactive
 
-Products held: 3 or 4
+- Products held: 3 or 4
 
-Balance: $100K–$150K
+- Balance: $100K–$150K
 
   
 1. Overall Churn
