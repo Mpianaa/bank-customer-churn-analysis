@@ -77,15 +77,22 @@ The workbook contains three sheets:
 - Customers with 3-4 products have extremely high churn (83-100%)
 - Inactive members churn at nearly double the rate of active members
 
--  High Risk Customer Profile Summary
+
+ High Risk Customer Profile Summary
 The combination of factors most associated with churn:
 
 Age: 46–55
+
 Geography: Germany
+
 Gender: Female
+
 Membership: Inactive
+
 Products held: 3 or 4
+
 Balance: $100K–$150K
+
   
 1. Overall Churn
 
