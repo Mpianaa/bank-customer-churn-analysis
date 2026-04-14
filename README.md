@@ -79,6 +79,7 @@ The workbook contains three sheets:
 
 
  High Risk Customer Profile Summary
+ 
 The combination of factors most associated with churn:
 
 Age: 46–55
